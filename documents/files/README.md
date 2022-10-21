@@ -8,3 +8,4 @@ Text files should be written in markdown for consistency.
 - Use case diagram
 - Documentation
 - Ideas
+- MVP
